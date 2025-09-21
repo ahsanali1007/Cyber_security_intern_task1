@@ -1,0 +1,38 @@
+★ Cybersecurity Basics
+
+Understand the CIA Triad: Confidentiality, Integrity, and Availability.
+
+Explore Threat Types: Phishing, Malware, DDoS, SQL Injection, Brute Force, and Ransomware.
+
+Study Attack Vectors: Social Engineering, Wireless Attacks, and Insider Threats.
+Linux Fundamentals
+
+★ Linux Fundamentals 
+
+File System Navigation: Commands like cd, ls, and pwd.
+
+File & Directory Permissions: Using commands such as chmod and chown.
+
+Package Management: Understanding how to use apt and dpkg.
+
+Networking Commands: Familiarize yourself with ifconfig, ping, netstat, and traceroute.
+Networking Basics
+
+★ Networking Basics 
+
+OSI Model Layers & Functions: Learn about the different layers of the OSI model and their purposes.
+
+TCP/IP Protocol Suite: Understand the core protocols of the internet.
+
+DNS & HTTP/HTTPS Deep Dive: Explore how DNS resolves domain names and the difference between HTTP and HTTPS.
+
+IP Addressing, Subnetting, and NAT: Learn the fundamentals of IP addresses, network segmentation, and Network Address Translation.
+Cryptography Basics
+
+★ Cryptography Basics 
+
+Symmetric vs Asymmetric Encryption: Differentiate between these two main types of encryption.
+
+Hashing: Understand the purpose of hashing and common algorithms like MD5 and SHA256.
+
+Digital Certificates & SSL/TLS: Learn how these are used to secure communication.
